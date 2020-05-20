@@ -166,9 +166,42 @@ body {
     </div>
   </div>
   <div class="main">
-    <div class="fakeimg4" style="height:auto;text-align: center;font-size: 20px;">Index
-    <div style="height:auto;text-align: center;font-size: 11px;color: #000000;">19 de Maio de 2020<br></div></div>
-  <div class="fakeimg3" style="height:auto;text-align:justify;">Texto</div>
+  <div class="fakeimg4" style="height:auto;text-align: center;font-size: 20px;">Cliente P2P
+  <div style="height:auto;text-align: center;font-size: 11px;color: #000000;">20 de Maio de 2020<br></div></div>
+  <div class="fakeimg3" style="height:auto;text-align:justify;">
+  <a href="https://www.qbittorrent.org/" target="_blank">qBitTorrent</a><br><br>
+  Apesar do uTorrent ser o programa de torrent mais popular, existem alternativas muito melhores, 
+  como por exemplo o qBitTorrent, que é sem dúvida o melhor cliente de BitTorrent gratuito disponível 
+  para o Windows.
+  <br><br>
+  <div class="" style="height:auto;text-align:center;">
+  <img src="./imagens/qbittorrent.png"></a>
+  </div>
+  </div>
+  <br>
+  <div class="fakeimg4" style="height:auto;text-align: center;font-size: 20px;">Programa para escritório gratuito
+  <div style="height:auto;text-align: center;font-size: 11px;color: #000000;">19 de Maio de 2020<br></div></div>
+  <div class="fakeimg3" style="height:auto;text-align:justify;">
+  <a href="https://pt-br.libreoffice.org/" target="_blank">Libre Office</a><br><br>
+  Embora o Microsoft Office seja o programa mais popular, existem ótimas alternativas, 
+  como por exemplo, o Libre Office, um programa gratuito que lhe oferece alternativas 
+  para o Microsoft Word, Excel e Power Point.<br><br>
+  <div class="" style="height:auto;text-align:center;">
+  <img src="./imagens/libreoffice.png"></a>
+  </div>
+  </div>
+  <br>
+  <div class="fakeimg4" style="height:auto;text-align: center;font-size: 20px;">Gerenciador de Downloads
+  <div style="height:auto;text-align: center;font-size: 11px;color: #000000;">20 de Maio de 2020<br></div></div>
+  <div class="fakeimg3" style="height:auto;text-align:justify;">
+  <a href="https://www.freedownloadmanager.org/pt/" target="_blank">Free Download Manager</a><br><br>
+  Free Download Manager é um programa gratuito que oferece uma forma mais eficiente de você gerenciar e 
+  organizar os downloads em seu computador, além de permitir que você faça downloads mais rapidamente.
+  <br><br>
+  <div class="" style="height:auto;text-align:center;">
+  <img src="./imagens/fdm.png"></a>
+  </div>
+  </div>
   </div>
   <div class="side">
     <div class="fakeimg2" style="height:auto;text-align: center;font-size: 20px;">Redes Sociais</div>
@@ -181,7 +214,7 @@ body {
 <br>Envie-me um <b>Email!</b><br>
 <a href="mailto:renatomsma@gmail.com"target="_blank" class="fa fa-rss"></a>
 <br>Envie-me uma <b>Mensagem!</b><br>
-  <a href="https://api.whatsapp.com/send?phone=5583986192869&text=Oi%20Renato%20Tudo%20Bem?"target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5583986192869&text=Oi%20Renato%20Tudo%20Bem?" target="_blank">
     <img src="./imagens/wzap.png" width="60" height="70"></a>
    </div>   
   </div>
