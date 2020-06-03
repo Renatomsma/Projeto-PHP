@@ -18,14 +18,14 @@
       <div class="fakeimg4" style="height:auto;text-align: center;font-size: 25px;">Quem Somos
         <div style="height:auto;text-align: center;font-size: 12px;color: #ffffff;">Postado por: Renato em 18 de Maio de 2020<br></div></div>
           <div class="fakeimg3" style="height:auto;text-align:justify;">
-			<?php include "conecta.inc.php";?><?php 
+			<?php include "config.inc.php";?><?php  
 				// Trazendo dados da tabela Página
 				$query = mysqli_query($conexao, "SELECT * FROM paginas WHERE id = 6");
 				// Litando valores retornados da tabela "paginas"
 				while($tabela = mysqli_fetch_array($query)){
 				echo $tabela['conteudo'];
 				}
-				?>
+			?>
 		</div><br>
     </div>  
 <?php include_once('menudireito.php');?>

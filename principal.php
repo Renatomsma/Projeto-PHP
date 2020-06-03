@@ -1,6 +1,6 @@
 <!-- Conteudo dos Menus -->
   <div class="main">
-    <?php include "conecta.inc.php";?><?php 
+		<?php include "config.inc.php";?><?php 
 			// Trazendo dados da tabela Página
 			$query = mysqli_query($conexao, "SELECT * FROM paginas WHERE id = 8");
 			// Litando valores retornados da tabela "paginas"
