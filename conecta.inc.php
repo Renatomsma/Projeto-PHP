@@ -6,7 +6,4 @@ $db = mysqli_select_db($conexao, "id13745096_site");
 // Executando query e retornando valores da tabela "pedidos"
 $query = mysqli_query($conexao, "SELECT * FROM pedidos");
 if($conexao)
-echo "Banco de dados Online.";
-else
-echo "Banco de dados Offline.";
 ?>

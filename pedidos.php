@@ -25,7 +25,7 @@ data-validation-required-message="Insira seu nome!"><br><br>
 E-mail: <input type="email" class="form-control" name="email"/><br><br>
 Telefone: <input type="tel" class="form-control" name="telefone"/><br><br>
 Assunto: <input type="text" class="form-control" name="assunto"/><br><br>
-Mensagem:<textarea class="form-control" name="mensagem" rows="5" cols="45"></textarea><br><br>
+Mensagem: <textarea class="form-control" name="mensagem" rows="5" cols="45"></textarea><br><br>
 <button type="submit" class="btn btn-primary">Enviar</button><br><br>
 </form>
 <?php include_once('contatodb.php');?>           
