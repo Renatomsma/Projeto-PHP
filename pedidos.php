@@ -18,7 +18,8 @@
          <div class="fakeimg4" style="height:auto;text-align: center;font-size: 25px;">Pedidos
           <div style="height:auto;text-align: center;font-size: 12px;color: #ffffff;">Postado por: Renato em 18 de Maio de 2020<br></div></div>
             <div class="fakeimg3" style="height:auto;text-align:justify;">
-<?php include "conecta.inc.php";?><br><br>
+<?php include "conecta.inc.php";?>
+Preencha o Formulário!<br><br>
 <form  id="contactForm" action="" method="post">
 <label>Nome:</label> <input type="text" class="form-control" name="nome" required="" 
 data-validation-required-message="Insira seu nome!"><br><br>
